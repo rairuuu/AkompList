@@ -1,0 +1,7 @@
+{
+  "name": "AkompList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
